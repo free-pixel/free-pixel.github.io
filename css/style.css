@@ -47,3 +47,10 @@ body {
 .feature-overview img {
     width: 20%;
 }
+
+/* 在现有样式的基础上添加 */
+.ad-container {
+    margin: 30px 0;
+    text-align: center;
+    min-height: 280px; /* 为广告预留最小高度 */
+}
