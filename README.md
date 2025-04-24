@@ -1,2 +1,2 @@
-# freepixel.github.io
-freepixel.github.io
+# free-pixel.github.io
+free-pixel.github.io
